@@ -5,7 +5,6 @@ This repository will contain the lecture materials and assignments for the hands
 
 While there is no hard requirement to attend these sessions or complete the exercises, we do strongly recommend them!
 Many of the machine learning concepts being covered thoughout the week are best learned and reinforced by implementing the ideas in code yourself.
-Also, if you are a Duke student hoping for a certification of completion of the course on your transcript, the assignments are how we determine if you pass.
 Please come ready to code!
 
 
